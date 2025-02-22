@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSProtector", "VSProtector\VSProtector\VSProtector.csproj", "{73DB35A0-881F-455E-9C71-442C6F3A32BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CakeBuild", "VSProtector\ZZCakeBuild\CakeBuild.csproj", "{EA92AF8E-37A8-465D-A23A-78731576EFAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73DB35A0-881F-455E-9C71-442C6F3A32BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73DB35A0-881F-455E-9C71-442C6F3A32BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73DB35A0-881F-455E-9C71-442C6F3A32BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73DB35A0-881F-455E-9C71-442C6F3A32BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA92AF8E-37A8-465D-A23A-78731576EFAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA92AF8E-37A8-465D-A23A-78731576EFAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA92AF8E-37A8-465D-A23A-78731576EFAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA92AF8E-37A8-465D-A23A-78731576EFAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3967DC1C-A7EB-416E-8EFC-7075A500BA38}
+	EndGlobalSection
+EndGlobal
